@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { SparklesIcon } from './icons/SparklesIcon';
 
@@ -10,7 +9,7 @@ const Header: React.FC = () => {
           <div className="flex items-center gap-2">
             <SparklesIcon className="h-8 w-8 text-blue-500" />
             <span className="text-xl font-bold text-white tracking-tight">
-              Gemini Image Gen
+              IMAGE GPT
             </span>
           </div>
           <div className="flex items-center gap-4">

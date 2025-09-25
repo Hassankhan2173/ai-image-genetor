@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback } from 'react';
 import Header from './components/Header';
 import PromptForm from './components/PromptForm';
@@ -41,7 +40,7 @@ const App: React.FC = () => {
       <main className="flex-grow w-full">
         <div className="py-8 md:py-12">
             <h1 className="text-4xl md:text-5xl font-extrabold text-center tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-600">
-                AI Image Generator
+                IMAGE GPT
             </h1>
             <p className="mt-4 max-w-2xl mx-auto text-center text-lg text-slate-400">
                 Bring your ideas to life. Describe anything you can imagine and let Gemini create it for you.

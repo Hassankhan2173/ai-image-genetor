@@ -1,5 +1,5 @@
 {
-  "name": "Copy of Gemini AI Image Generator",
+  "name": "IMAGE GPT",
   "description": "A modern AI Image Generator website that allows users to create stunning images from text prompts using the Gemini API. Features a clean, user-friendly interface with a gallery and customization options.",
   "requestFramePermissions": []
 }
